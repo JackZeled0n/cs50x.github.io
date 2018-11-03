@@ -1,4 +1,3 @@
-
 $(".button-collapse").sideNav();
 $(".tabs").tabs({});
 
